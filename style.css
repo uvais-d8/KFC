@@ -1,0 +1,418 @@
+
+.container{
+    width: 100%;
+    height: 2000px;
+}
+.body{
+    margin: 0;
+}
+
+.header{
+    background: rgb(255, 255, 255);
+    height:43px;
+    width: 100%;
+}
+.loc{
+    margin-left: 420px;
+    margin-top: 9px;
+    float: left;
+}
+.setlocation{
+    font-style: normal;
+    font-weight: 400; 
+    font-size: 14px;
+    color: #202124;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    padding-top: 5px;
+    line-height: 27px;
+    float: left;
+    padding-left: 9px;
+
+}
+.locationbutton {
+    background: #202124;
+    margin-top: 1px;
+    height: 32px;
+    width: 100px;
+    border-radius: 64px;
+    margin-left: 54px;
+    border-color: black;
+    font-family: "National2-Medium";
+    border-style: none;
+}
+.setloc{
+    color: white; 
+    font-size: 12px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.head1{
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 100px;
+}
+.menu{
+
+    all: unset;
+    cursor: pointer;
+    position: relative;
+    padding-left: 42px;
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.deals{
+    all: unset;
+    cursor: pointer;
+    position: relative;
+    padding-left: 42px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.kfc{
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.profile{  
+    margin-left: 672px;
+}
+.sign-in{
+    text-transform: capitalize;
+    margin-left: 12px;
+    font-weight: 1000px;
+    font-family: "National2-Medium";
+}
+.bucket{
+    width: 50px;
+    height: 50px;
+    font-family: "National2-Medium";
+}
+.rs0{
+    padding-left: 24px;
+}
+.head2{
+    width: 100%;
+    height: 76px;
+    background: #202124;
+}
+.order{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   letter-spacing: 1px;
+   font-style: normal;
+   font-weight: 800;
+   font-size: 15px;
+   line-height: 70px;
+   color: #fff;
+   margin: auto 15px auto auto;
+   margin-left: 390px;
+}
+
+.startorder{    width: 160px;
+    height: 44px;
+    border-radius: 39px;
+    background:#e4002b;
+    border-style: none;
+    margin-top: 13px;
+}
+.suborder{    font-size: 16px;
+    color: white;
+
+}
+.maincls{
+    width: 100%;
+    height: 1200px;
+  }
+.body{
+    border: 0px;
+}
+.brows{
+    margin-right: 31px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 43px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #202124;
+    margin-top: 100px;
+    margin-bottom: 55px;
+}
+.menus{
+    width: 150px;
+    height: 1100px;
+    float: left;
+}
+.pictures{
+    margin-left: 20px;
+    width: 248px;
+    height: 177px;
+    border-radius: 4px;
+
+}
+.part2{
+    width: 50%;
+    height: 150px;
+}
+.img{
+    width:100%;
+    height: 270px;
+}
+.text{
+    width: 100%;
+    
+    margin-left: 170px;
+ }
+ .offers{
+    width: 100%;
+    height:750px;
+    background:#202124;
+    padding-left: 100px;
+ }
+ .lasthead{
+    color: white;
+    padding-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 700px;
+}
+ .footer{
+    background: #202124;
+    width: 100%;
+    height: 270px;
+ }
+ .legal{
+    color: rgb(255, 255, 255);
+ }
+ .div1{
+    width: 240px;
+    height: 200px;
+    float: left; 
+}
+ .div2{
+    width: 120;
+    height: 200px;
+    float: left;
+ }
+ .div3{
+    width: 160px;
+    height: 200px;
+   float:left;
+ }
+ .div4{
+    width: 140px;
+    height: 200px;
+    float:left;
+ }
+ .div5{
+    width: 170px;
+    height: 200px;
+    float:left;
+
+ }
+ .div6{
+    width: 150px;
+    height: 200px;
+    float:left;
+ }
+ .div7{
+    width: 140px;
+    height: 200px;
+   float:left;
+ }
+ .div8{
+    width: 150px;
+    height: 200px;
+    float:left;
+ }
+ .kfcmap{
+    color: white;
+    text-decoration: underline;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .KFClogo{
+    margin-left: 100px;
+ }
+ .last{
+    width: 100%;
+    height: 50px;
+    background: #202124;
+ }
+ .end{
+    font-style: normal;
+    margin-left: 470px;
+    color: gray;
+    font-size: 13px;
+ }
+ .social{
+    margin-left: 1120px;
+ }
+ .instructions{
+    color: white;
+    font-size: 14px;
+ }
+ .one{
+    width: 310px;
+    height: 350px;
+    margin-left:50px ;
+    border-radius: 7px;
+ }
+ .oneburger{
+   width: 340px;
+   height: 250px;
+   border-radius: 7px;
+ }
+ .two{
+    width: 310px;
+    height: 350px;
+    margin-left:50px ;
+    border-radius: 7px;
+ }
+ .onex{
+    margin-top: 20px;
+    margin-left: 38px;
+    float: left;
+    font-weight: 700;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .twox{
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+    font-weight: 700;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
+ .threex{
+    margin-top: 20px;
+    margin-left: 140px;
+    font-weight: 700;
+    float: left;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
+ .fourx{
+    margin-top: 20px;
+    margin-left: 150px;
+    font-weight: 700;
+    float: left;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .fingerx{
+    margin-top: 20px;
+    margin-left: 160px;
+    float: left;
+    font-size: 16px;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+ }
+ .onex2{
+    margin-top: 20px;
+    margin-left: 80px;
+    float: left;
+    font-weight: 700;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .twox2{
+    margin-top: 20px;
+    margin-left: 180px;
+    float: left;
+    font-weight: 900;
+    font-size: larger;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
+ .threex2{
+    margin-top: 20px;
+    margin-left: 180px;
+    font-weight: 700;
+    float: left;
+    color: #202124;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
+ .socialx{
+    height: 38px;
+ }
+ .white{
+   color: rgb(224, 224, 224);
+   text-decoration: none;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .first{
+   width: 340px;
+   height: 430px;
+   background: rgb(255, 255, 255);
+   border-radius: 7px;
+   text-align: center;
+   float: left;
+   
+ }
+ .cardhead{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: 900;
+     font-size: 58px;
+   height: 43px;
+   color: #e50000;
+   line-height: 43px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 19px; 
+   font-weight: 700;
+    text-align: center;
+ }
+ .second{
+   margin-left: 50px;
+   float: left;
+   width: 340px;
+   height: 430px;
+   background: rgb(255, 255, 255);
+   border-radius: 7px;
+   text-align: center;
+
+ }
+ .third{
+   
+      margin-left: 50px;
+      float: left;
+      width: 340px;
+      height: 430px;
+      background: rgb(255, 255, 255);
+      border-radius: 7px;
+      text-align: center;
+  
+ }
+ .values{
+   color: #202124;
+   font-size: 14 ;
+ }
+ .apply{
+   width: 155px;
+   height: 47px;
+   margin-left: 157px;
+   border-radius: 30px;
+   border-style: solid;
+   border-width: thin;
+   background: white;
+   cursor: pointer;
+}
+.apply:hover{
+   background: black;   
+}
+.offer{
+   font-weight: 700;
+}
+.offer:hover{
+   color: white;
+   
+}
+
+.hii{
+margin-left: 930px;
+margin-top: 1px;
+}
